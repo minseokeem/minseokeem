@@ -1,16 +1,15 @@
-## Hi there 👋
+## Minseo Kim
 
-<!--
-**minseokeem/minseokeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate in Electrical and Computer Engineering at the University of Seoul.
+Interested in mobile robotics, autonomous systems, and embedded systems.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[uwb-leader-follower-evaluation](https://github.com/minseokeem/uwb-leader-follower-evaluation)**
+  Ground-truth evaluation and fault detection for a UWB leader–follower system for agricultural vehicles (ROS 2, Gazebo)
+- **[structural-digital-twin-monitoring](https://github.com/minseokeem/structural-digital-twin-monitoring)**
+  UWB/IMU structural monitoring with adaptive ranging and a web-based 3D digital twin (ESP32, Node.js, Three.js)
+
+### Contact
+
+rei0809@uos.ac.kr
