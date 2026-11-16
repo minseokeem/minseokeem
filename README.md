@@ -1,7 +1,7 @@
 ## Minseo Kim
 
 Undergraduate in Electrical and Computer Engineering at the University of Seoul.
-Interested in mobile robotics, autonomous systems, and embedded systems.
+Interested in Robotics, Embodied AI, Autonomous Systems, Robot Learning
 
 ### Projects
 
